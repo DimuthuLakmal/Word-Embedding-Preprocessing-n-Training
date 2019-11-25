@@ -6,3 +6,5 @@ Then we train three types of word embedding models;
   1) Word2Vec
   2) Glove
   3) FastText
+  
+  Preprocessed Data can be found via https://drive.google.com/drive/folders/1lb4-eAr1rpFFGg_rk_djPCCVYiOpY6Hi?usp=sharing
